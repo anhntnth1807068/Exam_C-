@@ -1,0 +1,11 @@
+C:\Users\ADMIN\RiderProjects\exampaper\exampaper\bin\Debug\netcoreapp2.2\exampaper.deps.json
+C:\Users\ADMIN\RiderProjects\exampaper\exampaper\bin\Debug\netcoreapp2.2\exampaper.runtimeconfig.json
+C:\Users\ADMIN\RiderProjects\exampaper\exampaper\bin\Debug\netcoreapp2.2\exampaper.runtimeconfig.dev.json
+C:\Users\ADMIN\RiderProjects\exampaper\exampaper\bin\Debug\netcoreapp2.2\exampaper.dll
+C:\Users\ADMIN\RiderProjects\exampaper\exampaper\bin\Debug\netcoreapp2.2\exampaper.pdb
+C:\Users\ADMIN\RiderProjects\exampaper\exampaper\obj\Debug\netcoreapp2.2\exampaper.csprojAssemblyReference.cache
+C:\Users\ADMIN\RiderProjects\exampaper\exampaper\obj\Debug\netcoreapp2.2\exampaper.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\RiderProjects\exampaper\exampaper\obj\Debug\netcoreapp2.2\exampaper.AssemblyInfoInputs.cache
+C:\Users\ADMIN\RiderProjects\exampaper\exampaper\obj\Debug\netcoreapp2.2\exampaper.AssemblyInfo.cs
+C:\Users\ADMIN\RiderProjects\exampaper\exampaper\obj\Debug\netcoreapp2.2\exampaper.dll
+C:\Users\ADMIN\RiderProjects\exampaper\exampaper\obj\Debug\netcoreapp2.2\exampaper.pdb
